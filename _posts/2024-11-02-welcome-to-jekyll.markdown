@@ -9,7 +9,7 @@ categories: jekyll update
 shmoopy
 
 <audio controls autoplay>
-  <source src="/assets/audio/test_of_audlog.mp3">
+  <source src="{{ site.baseurl }}/assets/audio/test_of_audlog.mp3">
 Your browser does not support the audio element.
 </audio>
 Hello test!
